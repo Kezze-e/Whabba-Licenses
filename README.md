@@ -31,4 +31,4 @@ Currently, the available sub-licenses are:
 
 ## Quick note:
 
-__Whabba licenses do not assume responsibility for any legal actions or DMCA-related matters. It is essential to understand that users are accountable for their own compliance with copyright laws and regulations.__
+__Whabba does not take responsibility for any legal actions or DMCA-related matters. It is essential to understand that users are accountable for their own compliance with copyright laws and regulations.__
