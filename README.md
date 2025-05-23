@@ -1,6 +1,7 @@
 # Whabba
 Whabba licenses are simple, easy, and have short as well as detailed versions.
-* Note: I have used [Ginger](https://www.gingersoftware.com/) in order to correct the grammar of licenses. 
+
+* Note: [Ginger](https://www.gingersoftware.com/) has been used to assist me with every license aswell as this readme file as English is not my first language.
 
 
 ## About
