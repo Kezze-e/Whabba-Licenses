@@ -1,7 +1,7 @@
 # Whabba
 Whabba licenses are simple, easy, and have short as well as detailed versions.
-
-* Note: [Ginger](https://www.gingersoftware.com/) has been used to assist me with every license aswell as this readme file as English is not my first language.
+* Note: If you'd like to edit any license, you're free to do so as long as "Whabba" does not disappear from the title.
+* Note: [Ginger](https://www.gingersoftware.com/) as well as [Grammarly](https://grammarly.com) have been used to assist me in grammar due to English not being my first language.
 
 
 ## About
@@ -27,6 +27,7 @@ Currently, the available sub-licenses are:
 `AR or Attribution Required` - Attribution must be given to you.  
 `E-W or Editable Work` - Your work may be freely edited.  
 `nAi or No-Ai` - Your work may not be used in order to train Artificial intelligence.  
+
 
 
 
