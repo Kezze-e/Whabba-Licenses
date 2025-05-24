@@ -1,4 +1,4 @@
 # WH*License Uni-S
-Universal-S
+Universal-S License  
 Copyright <year> <copyright holder>
 
