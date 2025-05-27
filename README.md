@@ -7,14 +7,7 @@ Whabba licenses are simple, easy, and have short as well as detailed versions.
 ## About
 Whabba is a simple & easy to understand license system.
 
-Start & what I call "sub-licenses"
-
-Every license will start with:
-``` 
- WH*Licenses Sub-license-Sub-License
- Sub-License-Sub-License
- Copyright <year> <copyright holder>
-```
+Start
 
 ### What are "sub-licenses"
 Sub licenses are like Creative Commons NC or Non-Commercial, Which in this case I modified so they're not 1:1 Creative Commons-like.
